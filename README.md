@@ -85,8 +85,6 @@ Clone this repository to your desired folder:
   git clone  https://github.com/paulinagonzalezc/hello-rails-back-end
 ```
 
--
-
 ### Install
 
 Install this project with:
