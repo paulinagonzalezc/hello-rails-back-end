@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby" height="auto" />
 
 <div align="center">
-  <h1><b>Greetings App Back-end</b></h1>
+  <h1><b>Hello Rails Back-end</b></h1>
 </div>
 
 # 📗 Table of Contents
@@ -10,7 +10,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -26,11 +25,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Greetings <a name="about-project"></a>
+# 📖 Hello Rails Back-end <a name="about-project"></a>
 
-Greetings is a web application that displays a random greeting message on screen, using React as front-end and Rails as back-end.
-
-Front-end repo: https://github.com/paulinagonzalezc/hello-react-front-end/
+Hello Rails Back-end is a backend web application that handles the API to display a random greeting message on screen using [Hello React Front-end](https://github.com/paulinagonzalezc/hello-react-front-end) as front-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
